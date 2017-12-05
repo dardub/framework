@@ -52,7 +52,7 @@ Graphcool enables this use case and makes it easy to integrate your Graphcool ba
 - Using the _GraphQL proxy layer_
 - Implementing _resolvers_ (as serverless functions) directly in the GraphQL engine
 
-If your use case for integrating an external system is rather simple, going for a resolver is a reasonable choice. For mode advanced use cases, consider using the API proxy layer.
+If your use case for integrating an external system is rather simple, going for a resolver is a reasonable choice. For more advanced use cases, consider using the API proxy layer.
 
 
 ## Modules
